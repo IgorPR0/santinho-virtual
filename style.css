@@ -1,0 +1,42 @@
+body {
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    display: block;
+    max-width: 1000%;
+}
+
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: rgb(7, 44, 15);
+    background-color: rgba(2, 42, 16, 0.788);
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 3px 2px 0  darkolivegreen;
+
+}
+
+
+#tema {
+    background-color: rgb(5, 109, 14);
+    font-size: 50px;
+    display: flex; height: 50px; justify-content: space-around; align-items: center;
+    font-weight: bold;
+}
+
+#partido {
+    color: rgb(44, 0, 0);
+    text-shadow: 3px 2px 0  rgb(170, 3, 3);
+}
+
+#nomepartido {
+    color: rgb(44, 0, 0);
+    text-shadow: 3px 2px 0  rgb(170, 3, 3);
+}
